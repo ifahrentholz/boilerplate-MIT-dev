@@ -7,6 +7,7 @@
 
 # installation steps
 - npm i
+- commitizen init cz-conventional-changelog --save --save-exact
 
 
 # use semantic-release
